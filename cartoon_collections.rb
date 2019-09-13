@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)
-  array.map { |array|
+  array.map { |memo| 
 end
 roll_call_dwarves(["Dopey", "Grumpy", "Bashful"])
 def summon_captain_planet# code an argument here
