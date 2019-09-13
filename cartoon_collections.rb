@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)
-  array.map { |memo| 
+  array.each_with_index { |name| index } 
 end
 roll_call_dwarves(["Dopey", "Grumpy", "Bashful"])
 
