@@ -9,9 +9,8 @@ def summon_captain_planet(array)
   array.collect do |string|
     p string.capitalize + "!"
   end
-  
 end
-#summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
+
 
 def long_planeteer_calls# code an argument here
   # Your code here
