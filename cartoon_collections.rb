@@ -10,7 +10,7 @@ def summon_captain_planet(array)
     puts string.capitalize + "!"
   end 
 end
-summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
+#summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
 
 def long_planeteer_calls# code an argument here
   # Your code here
