@@ -6,7 +6,7 @@ end
 roll_call_dwarves(["Dopey", "Grumpy", "Bashful"])
 
 def summon_captain_planet(array)
-  array.map.to_uppercase
+  array.map.capitalize
 end
 
 def long_planeteer_calls# code an argument here
